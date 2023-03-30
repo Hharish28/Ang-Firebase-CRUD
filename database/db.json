@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": 3,
+      "name": "Harish",
+      "age": "25",
+      "city": "mumbai"
+    },
+    {
+      "id": 4,
+      "name": "Mohit",
+      "age": "28",
+      "city": "bhopal"
+    },
+    {
+      "id": 5,
+      "name": "Rohit Porwal",
+      "age": "24",
+      "city": "pune"
+    }
+  ]
+}
